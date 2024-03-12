@@ -15,3 +15,4 @@ All .ini files are documented in their respective folders, along with a list of 
 - ATtiny84
 - ATtiny85
 - Attiny861
+- ATtiny2313
